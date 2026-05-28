@@ -25,9 +25,9 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manoj%20Kumar%20S-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-YOUR__USERNAME-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
-[![Email](https://img.shields.io/badge/Email-Connect-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manoj%20Kumar%20S-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manojkumar)
+[![GitHub](https://img.shields.io/badge/GitHub-YOUR__USERNAME-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manojmessi07)
+[![Email](https://img.shields.io/badge/Email-Connect-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manojkumar7483825420@gmail.com)
 [![Location](https://img.shields.io/badge/Bangalore-India-FF9933?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 </div>
@@ -113,9 +113,9 @@ const manojKumar = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_radius=10" height="180" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=manojmessi07&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_radius=10" height="180" alt="GitHub Stats"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=10&langs_count=8" height="180" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojmessi07&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=10&langs_count=8" height="180" alt="Top Languages"/>
 
 </div>
 
@@ -127,7 +127,7 @@ const manojKumar = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0d1117&color=58a6ff&line=1a6ea8&point=58a6ff&area=true&hide_border=true&border_radius=10" width="90%" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=manojmessi07&bg_color=0d1117&color=58a6ff&line=1a6ea8&point=58a6ff&area=true&hide_border=true&border_radius=10" width="90%" alt="Activity Graph"/>
 
 </div>
 
@@ -174,7 +174,7 @@ const manojKumar = {
 </tr>
 </table>
 
-[![View Project](https://img.shields.io/badge/View%20on%20GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME)
+[![View Project](https://img.shields.io/badge/View%20on%20GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manojkumar2069/java_project_live_camera)
 
 <br/>
 
@@ -209,7 +209,7 @@ const manojKumar = {
 </tr>
 </table>
 
-[![View Project](https://img.shields.io/badge/View%20on%20GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME)
+[![View Project](https://img.shields.io/badge/View%20on%20GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manojmessi07/Student_attendance_cie_progress)
 
 <br/>
 
@@ -276,7 +276,7 @@ BMS College of Engineering, Bangalore &nbsp;·&nbsp; **CGPA: 8.5 / 10**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge&color=0a3d62&logo=github)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub followers](https://img.shields.io/github/followers/manojkumar2069?label=Followers&style=for-the-badge&color=0a3d62&logo=github)](https://github.com/manojkumar2069)
 
 </div>
 
