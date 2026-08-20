@@ -1,16 +1,8 @@
-<br/>
+<div align="center">
 
-<h1 align="center">MANOJ KUMAR S</h1>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1a2e,50:4a2c6d,100:0d7377&height=190&section=header&text=Manoj%20Kumar%20S&fontSize=42&fontColor=ffffff&fontAlignY=42&desc=Full%20Stack%20Developer%20%7C%20CS%20Engineering%20Student&descColor=a29bfe&descSize=16&descAlignY=62&animation=fadeIn" width="100%"/>
 
-<p align="center">
-<img src="https://img.shields.io/badge/-Full%20Stack%20Developer-0d1117?style=flat-square&labelColor=0d1117&color=58a6ff" height="26"/>
-&nbsp;
-<img src="https://img.shields.io/badge/-CS%20Engineering%20Student-0d1117?style=flat-square&labelColor=0d1117&color=58a6ff" height="26"/>
-&nbsp;
-<img src="https://img.shields.io/badge/-Bangalore%2C%20India-0d1117?style=flat-square&labelColor=0d1117&color=58a6ff" height="26"/>
-</p>
-
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+</div>
 
 <div align="center">
 
@@ -262,3 +254,5 @@ BMS College of Engineering, Bangalore &nbsp;·&nbsp; **CGPA: 8.5 / 10**
 </div>
 
 <br/>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d7377,50:4a2c6d,100:1a1a2e&height=100&section=footer" width="100%"/>
