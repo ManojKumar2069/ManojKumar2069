@@ -107,8 +107,6 @@ const manojKumar = {
 <!--                    GITHUB STATS                            -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
----
-
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                    FEATURED PROJECTS                       -->
 <!-- ═══════════════════════════════════════════════════════════ -->
@@ -251,9 +249,6 @@ BMS College of Engineering, Bangalore &nbsp;·&nbsp; **CGPA: 8.5 / 10**
 ![Profile Views](https://komarev.com/ghpvc/?username=ManojKumar2069&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 &nbsp;
 </div>
-
-<br/>
-
 <div align="center">
 
 ### 💬 &nbsp;Let's Connect
