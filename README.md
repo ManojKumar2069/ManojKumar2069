@@ -101,8 +101,6 @@ const manojKumar = {
 ![DBMS](https://img.shields.io/badge/DBMS-0d1117?style=for-the-badge&logo=postgresql&logoColor=4479A1)
 ![CN](https://img.shields.io/badge/Computer%20Networks-0d1117?style=for-the-badge&logo=cisco&logoColor=1BA0D7)
 
-<br/>
-
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
@@ -250,10 +248,8 @@ BMS College of Engineering, Bangalore &nbsp;·&nbsp; **CGPA: 8.5 / 10**
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=ManojKumar2069&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/manojkumar2069?label=Followers&style=for-the-badge&color=0a3d62&logo=github)](https://github.com/manojkumar2069)
-
 </div>
 
 <br/>
