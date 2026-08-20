@@ -109,27 +109,6 @@ const manojKumar = {
 <!--                    GITHUB STATS                            -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojmessi07&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=10&langs_count=8" height="180" alt="Top Languages"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ManojKumar2069&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&border_radius=10" width="70%" alt="GitHub Streak"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=manojmessi07&bg_color=0d1117&color=58a6ff&line=1a6ea8&point=58a6ff&area=true&hide_border=true&border_radius=10" width="90%" alt="Activity Graph"/>
-
-</div>
-
-<br/>
-
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
