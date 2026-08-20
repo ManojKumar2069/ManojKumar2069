@@ -109,7 +109,6 @@ const manojKumar = {
 <!--                    GITHUB STATS                            -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-## 📊 &nbsp;GitHub Stats
 
 <div align="center">
 
@@ -295,4 +294,3 @@ BMS College of Engineering, Bangalore &nbsp;·&nbsp; **CGPA: 8.5 / 10**
 <br/>
 
 <!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a6ea8,50:0a3d62,100:0d1117&height=120&section=footer" width="100%"/>
