@@ -25,7 +25,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manoj%20Kumar%20S-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manojkumar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manoj%20Kumar%20S-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manoj-kumar-subramani)
 [![GitHub](https://img.shields.io/badge/GitHub-YOUR__USERNAME-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manojmessi07)
 [![Email](https://img.shields.io/badge/Email-Connect-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manojkumar7483825420@gmail.com)
 [![Location](https://img.shields.io/badge/Bangalore-India-FF9933?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
@@ -121,7 +121,7 @@ const manojKumar = {
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&border_radius=10" width="70%" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ManojKumar2069&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&border_radius=10" width="70%" alt="GitHub Streak"/>
 
 </div>
 
@@ -288,9 +288,9 @@ BMS College of Engineering, Bangalore &nbsp;·&nbsp; **CGPA: 8.5 / 10**
 
 *Open to Software Engineering Internships, collaborative projects, and interesting conversations.*
 
-[![LinkedIn](https://img.shields.io/badge/Let's%20Connect%20on%20LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/Let's%20Connect%20on%20LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manoj-kumar-subramani)
 &nbsp;
-[![Email](https://img.shields.io/badge/Drop%20me%20an%20Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/Drop%20me%20an%20Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manojkumar7483825420@gmail.com)
 
 </div>
 
