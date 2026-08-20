@@ -1,18 +1,21 @@
+<br/>
+
+<h1 align="center">MANOJ KUMAR S</h1>
+
+<p align="center">
+<img src="https://img.shields.io/badge/-Full%20Stack%20Developer-0d1117?style=flat-square&labelColor=0d1117&color=58a6ff" height="26"/>
+&nbsp;
+<img src="https://img.shields.io/badge/-CS%20Engineering%20Student-0d1117?style=flat-square&labelColor=0d1117&color=58a6ff" height="26"/>
+&nbsp;
+<img src="https://img.shields.io/badge/-Bangalore%2C%20India-0d1117?style=flat-square&labelColor=0d1117&color=58a6ff" height="26"/>
+</p>
+
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    HEADER BANNER                           -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d62,100:1a6ea8&height=200&section=header&text=Manoj%20Kumar%20S&fontSize=52&fontColor=ffffff&fontAlign=50&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20CS%20Engineering%20Student&descColor=58a6ff&descSize=18&descAlign=50&descAlignY=60&animation=fadeIn" width="100%"/>
-
-</div>
-
-<div align="center">
-
-<!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Building+Scalable+Full+Stack+Applications;Java+%7C+React+%7C+Node.js+%7C+MongoDB;Open+to+Software+Engineering+Internships;Turning+Ideas+into+Clean%2C+Working+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Building+Scalable+Full+Stack+Applications;Java+%7C+React+%7C+Node.js+%7C+MongoDB;Open+to+Software+Engineering+Internships;Turning+Ideas+into+Clean%2C+Working+Code" alt="Typing SVG" />
 </a>
 
 </div>
@@ -26,7 +29,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Manoj%20Kumar%20S-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manoj-kumar-subramani)
-[![GitHub](https://img.shields.io/badge/GitHub-YOUR__USERNAME-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manojmessi07)
+[![GitHub](https://img.shields.io/badge/GitHub-manojmessi07-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manojmessi07)
 [![Email](https://img.shields.io/badge/Email-Connect-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manojkumar7483825420@gmail.com)
 [![Location](https://img.shields.io/badge/Bangalore-India-FF9933?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
@@ -102,10 +105,6 @@ const manojKumar = {
 ![CN](https://img.shields.io/badge/Computer%20Networks-0d1117?style=for-the-badge&logo=cisco&logoColor=1BA0D7)
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    GITHUB STATS                            -->
-<!-- ═══════════════════════════════════════════════════════════ -->
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                    FEATURED PROJECTS                       -->
@@ -246,9 +245,10 @@ BMS College of Engineering, Bangalore &nbsp;·&nbsp; **CGPA: 8.5 / 10**
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=ManojKumar2069&label=Profile%20Views&color=0e75b6&style=for-the-badge)
-&nbsp;
+![Profile Views](https://komarev.com/ghpvc/?username=manojmessi07&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+
 </div>
+
 <div align="center">
 
 ### 💬 &nbsp;Let's Connect
@@ -262,5 +262,3 @@ BMS College of Engineering, Bangalore &nbsp;·&nbsp; **CGPA: 8.5 / 10**
 </div>
 
 <br/>
-
-<!-- Footer Wave -->
