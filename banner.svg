@@ -1,0 +1,121 @@
+<svg width="1200" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1a1a2e">
+        <animate attributeName="stop-color"
+          values="#1a1a2e;#4a2c6d;#0d7377;#4a2c6d;#1a1a2e"
+          dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#4a2c6d">
+        <animate attributeName="stop-color"
+          values="#4a2c6d;#0d7377;#1a1a2e;#0d7377;#4a2c6d"
+          dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#0d7377">
+        <animate attributeName="stop-color"
+          values="#0d7377;#1a1a2e;#4a2c6d;#1a1a2e;#0d7377"
+          dur="8s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <clipPath id="bannerClip">
+      <rect width="1200" height="220"/>
+    </clipPath>
+  </defs>
+
+  <rect width="1200" height="220" fill="url(#bgGradient)"/>
+
+  <g clip-path="url(#bannerClip)" font-family="Segoe UI, Arial, sans-serif" font-weight="700">
+
+    <g transform="translate(90,60)" fill="#a29bfe" opacity="0.5" font-size="30">
+      <text text-anchor="middle">&#9749;</text>
+      <animateTransform attributeName="transform" type="translate"
+        values="90,60; 90,45; 90,60" dur="4.5s" repeatCount="indefinite"/>
+    </g>
+
+    <g transform="translate(1080,55)" fill="#66fcf1" opacity="0.5" font-size="30">
+      <text text-anchor="middle">&#9881;</text>
+      <animateTransform attributeName="transform" type="translate"
+        values="1080,55; 1080,72; 1080,55" dur="5.2s" repeatCount="indefinite"/>
+    </g>
+
+    <g transform="translate(150,170)" fill="#58a6ff" opacity="0.45" font-size="26">
+      <text text-anchor="middle">JS</text>
+      <animateTransform attributeName="transform" type="translate"
+        values="150,170; 150,155; 150,170" dur="3.8s" repeatCount="indefinite"/>
+    </g>
+
+    <g transform="translate(1050,165)" fill="#47a248" opacity="0.45" font-size="24">
+      <text text-anchor="middle">DB</text>
+      <animateTransform attributeName="transform" type="translate"
+        values="1050,165; 1050,180; 1050,165" dur="4.2s" repeatCount="indefinite"/>
+    </g>
+
+    <g transform="translate(1000,100)" fill="#ed8b00" opacity="0.4" font-size="24">
+      <text text-anchor="middle">JV</text>
+      <animateTransform attributeName="transform" type="translate"
+        values="1000,100; 1000,88; 1000,100" dur="5s" repeatCount="indefinite"/>
+    </g>
+
+    <g transform="translate(200,100)" fill="#61dafb" opacity="0.4" font-size="24">
+      <text text-anchor="middle">&#9883;</text>
+      <animateTransform attributeName="transform" type="translate"
+        values="200,100; 200,115; 200,100" dur="4.8s" repeatCount="indefinite"/>
+    </g>
+
+    <g transform="translate(55,30)" fill="#f7df1e" opacity="0.35" font-size="22">
+      <text text-anchor="middle">SQL</text>
+      <animateTransform attributeName="transform" type="translate"
+        values="55,30; 55,44; 55,30" dur="4.1s" repeatCount="indefinite"/>
+    </g>
+
+    <g transform="translate(280,45)" fill="#ffffff" opacity="0.3" font-size="26">
+      <text text-anchor="middle">{ }</text>
+      <animateTransform attributeName="transform" type="translate"
+        values="280,45; 280,58; 280,45" dur="5.5s" repeatCount="indefinite"/>
+    </g>
+
+    <g transform="translate(930,35)" fill="#f14e32" opacity="0.35" font-size="22">
+      <text text-anchor="middle">GIT</text>
+      <animateTransform attributeName="transform" type="translate"
+        values="930,35; 930,50; 930,35" dur="4.6s" repeatCount="indefinite"/>
+    </g>
+
+    <g transform="translate(1140,115)" fill="#c9d1d9" opacity="0.3" font-size="26">
+      <text text-anchor="middle">&#9729;</text>
+      <animateTransform attributeName="transform" type="translate"
+        values="1140,115; 1140,100; 1140,115" dur="5.8s" repeatCount="indefinite"/>
+    </g>
+
+    <g transform="translate(320,190)" fill="#66fcf1" opacity="0.3" font-size="22">
+      <text text-anchor="middle">&gt;_</text>
+      <animateTransform attributeName="transform" type="translate"
+        values="320,190; 320,177; 320,190" dur="4.3s" repeatCount="indefinite"/>
+    </g>
+
+    <g transform="translate(880,190)" fill="#4fc3f7" opacity="0.35" font-size="22">
+      <text text-anchor="middle">CSS</text>
+      <animateTransform attributeName="transform" type="translate"
+        values="880,190; 880,178; 880,190" dur="5s" repeatCount="indefinite"/>
+    </g>
+
+    <g transform="translate(45,115)" fill="#4fa8d8" opacity="0.3" font-size="22">
+      <text text-anchor="middle">PY</text>
+      <animateTransform attributeName="transform" type="translate"
+        values="45,115; 45,130; 45,115" dur="4.9s" repeatCount="indefinite"/>
+    </g>
+
+    <g transform="translate(1140,180)" fill="#66d17a" opacity="0.35" font-size="22">
+      <text text-anchor="middle">NODE</text>
+      <animateTransform attributeName="transform" type="translate"
+        values="1140,180; 1140,167; 1140,180" dur="4.4s" repeatCount="indefinite"/>
+    </g>
+
+  </g>
+
+  <text x="600" y="105" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="46" font-weight="700" fill="#ffffff">
+    Manoj Kumar S
+  </text>
+  <text x="600" y="140" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="18" fill="#c9d1d9">
+    Full Stack Developer | CS Engineering Student
+  </text>
+</svg>
