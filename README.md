@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1a2e,50:4a2c6d,100:0d7377&height=190&section=header&text=Manoj%20Kumar%20S&fontSize=42&fontColor=ffffff&fontAlignY=42&desc=Full%20Stack%20Developer%20%7C%20CS%20Engineering%20Student&descColor=a29bfe&descSize=16&descAlignY=62&animation=fadeIn" width="100%"/>
+<img src="https://raw.githubusercontent.com/manojmessi07/manojmessi07/main/assets/banner.svg" width="100%"/>
 
 </div>
 
